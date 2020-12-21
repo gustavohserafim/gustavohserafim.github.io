@@ -17,10 +17,10 @@ img {
 
 header {
     margin-top: auto;
-    display: flex;
+    display: block;
 }
 
 body {
     text-align: center;
-    display: flex;
+    display: block;
 }
